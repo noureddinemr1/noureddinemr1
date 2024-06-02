@@ -53,7 +53,4 @@
 ###
 
 <br clear="both">
-
-![snake gif](https://github.com/noureddinemr1/snk/raw/output/github-contribution-grid-snake.svg)
-
 ###
