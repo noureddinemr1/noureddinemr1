@@ -54,6 +54,6 @@
 
 <br clear="both">
 
-[![Snk](https://raw.githubusercontent.com/noureddinemr1/noureddinemr1/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
+![snake gif](https://github.com/noureddinemr1/snk/raw/output/github-contribution-grid-snake.svg)
 
 ###
